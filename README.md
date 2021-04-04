@@ -1,1 +1,2 @@
-# geologists-2
+# Geologist
+Geologist Project
